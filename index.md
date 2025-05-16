@@ -16,6 +16,13 @@ If you’re interested in collaborating or learning more about my work, feel fre
 **<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**
 
 ---
+## Academic Background
+
+- **Sep 2023 – Present**: *M.S., Psychiatry and Mental Health*, Psychiatry and Mental Health, Wuhan University
+- **Sep 2018 – Jun 2023**: *M.B., Clinical Medicine*, Central South University
+<br>
+
+---
 
 ## Research Interests
 
@@ -29,11 +36,4 @@ My current research focuses on single-cell transcriptomics and multi-omics integ
 
 ---
 
-## Academic Background
-
-- **Sep 2023 – Present**: *M.S., Psychiatry and Mental Health*, Psychiatry and Mental Health, Wuhan University
-- **Sep 2018 – Jun 2023**: *M.B., Clinical Medicine*, Central South University
-<br>
-
----
 
