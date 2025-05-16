@@ -10,14 +10,11 @@ owner:
   avatar: Lingfeng.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: zhanglingfeng@whu.edu.cn
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://lancelotzhang0124.github.io/CV_Lingfeng.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: researcherzhang
   github: lancelotzhang0124
-  linkedin: hanlincai
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  researchgate: https://www.researchgate.net/profile/Zhang-Lingfeng-3
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
@@ -78,7 +75,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: feng
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
