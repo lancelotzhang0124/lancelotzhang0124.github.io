@@ -27,6 +27,8 @@ If you’re interested in collaborating or learning more about my work, feel fre
 
 My current research focuses on single-cell transcriptomics and multi-omics integration in psychiatric disorders. My research interest lies in identifying potential biomarkers for psychiatric disorders through multi-omics data analysis. In a word, multi-omics approaches, particularly scRNA-seq and spatial transcriptomics, are essential tools for exploring the pathological mechanisms of psychiatric disorders. I wish to devote my abilities to this meaningful field to help address psychiatric disorders.
 
+---
+
 ## Academic Background
 
 - **Sep 2023 – Present**: *M.S., Psychiatry and Mental Health*, Psychiatry and Mental Health*, Wuhan University
