@@ -26,8 +26,7 @@ If you’re interested in collaborating or learning more about my work, feel fre
 
 ## Research Interests
 
-- scRNA-seq
-- scATAC-seq
+- scRNA-seq & scATAC-seq
 - Spatial Transcriptomics
 - proteomics
 - post-GWAS
