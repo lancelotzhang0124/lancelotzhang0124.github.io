@@ -8,9 +8,8 @@ layout: page
 
 Here is **Lingfeng Zhang (张凌风)**.<br>
 
-I am a graduate student in the Department of Psychiatry at Wuhan University, advised by [Prof. Zhongchun Liu](https://scholar.google.com/citations?user=W1uFFUAAAAAJ&hl=en).
+I am a graduate student in the Department of Psychiatry at Wuhan University, advised by [Prof. Zhongchun Liu](https://scholar.google.com/citations?user=W1uFFUAAAAAJ&hl=en). I graduated from Central South University and got bachelor's degree of clinical medicine
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
 
 **<font color="#990000">I am actively seeking a PhD position for 2026 Fall admission. If you have any information, please contact me. Thank you!</font>**
 
