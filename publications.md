@@ -8,7 +8,7 @@ title: Publications
 
 ## Journal Paper
 
-- **<u>Zhang, L.#</u>**, Lv, H., Ma, S., Xu, Y., Xie, X.-h., Gong, Q., Kang, L., Chen, S., & Liu, Z*. (2025). **Multi-omics insights in major depressive disorder: Dysfunction of Neurons.** *[medRxiv](https://doi.org/10.1101/2025.05.03.25326369)*
+- **<u>Zhang, L.#</u>**, Lv, H., Ma, S., Xu, Y., Xie, X., Gong, Q., Kang, L., Chen, S., & Liu, Z*. (2025). **Multi-omics insights in major depressive disorder: Dysfunction of Neurons.** *[medRxiv](https://doi.org/10.1101/2025.05.03.25326369)*
 
 - **<u>Zhang, L.#</u>**, Chen, X., Xu, Y., Liu, J., & Liu, Z.* (2025). **Exploring glucagon-like peptide-1 receptor agonists as potential disease-modifying agent in psychiatric and neurodevelopmental conditions: evidence from a drug target Mendelian randomization.** *BMC Psychiatry*, 25(1), 484. [DOI](https://doi.org/10.1186/s12888-025-06914-0) [PMID](https://pubmed.ncbi.nlm.nih.gov/40369498/)
 
