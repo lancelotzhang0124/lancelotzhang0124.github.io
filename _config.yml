@@ -41,8 +41,8 @@ links:
     url: /hobbies/
   # - title: Startups
     # url: /startups/
-  - title: Blogs
-    url: /blogs/
+#  - title: Blogs
+#    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
@@ -74,7 +74,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: feng
+  shortname: Feng
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
