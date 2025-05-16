@@ -4,50 +4,22 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+> (#: First author, *: Corresponding author)
 
 ## Journal Paper
 
-- Semantic Communication for the Internet of Space: New Architecture, Challenges, and Future Vision<br>Hanlin Cai, Houtianfu Wang, Haofan Dong, Ozgur B. Akan~<br>[arXiv](https://arxiv.org/abs/2503.23446). Submitted to IEEE Communications Standards Magazine.
+- **<u>Zhang, L.<sup>#</sup></u>**, Lv, H., Ma, S., Xu, Y., Xie, X.-h., Gong, Q., Kang, L., Chen, S., & Liu, Z<sup>*</sup>**. (2025). **Multi-omics insights in major depressive disorder: Dysfunction of Neurons.** *[medRxiv](https://doi.org/10.1101/2025.05.03.25326369)*
 
-## Conference Paper
+- **<u>Zhang, L.<sup>#</sup></u>**, Chen, X., Xu, Y., Liu, J., & Liu, Z.<sup>*</sup> (2025). **Exploring glucagon-like peptide-1 receptor agonists as potential disease-modifying agent in psychiatric and neurodevelopmental conditions: evidence from a drug target Mendelian randomization.** *BMC Psychiatry*, 25(1), 484. [DOI](https://doi.org/10.1186/s12888-025-06914-0) [PMID](https://pubmed.ncbi.nlm.nih.gov/40369498/)
 
-- [Semantic Learning for Molecular Communication in Internet of Bio-Nano Things](https://arxiv.org/abs/2502.08426)<br>**Hanlin Cai**, Ozgur B. Akan~<br>Proceedings of the 9th Workshop on Molecular Communications<br>Catania, Italy. February, 2025.
+- **<u>Zhang, L.<sup>#</sup></u>**, Xu, Y., Ma, Y., Xie, T., Liu, C., & Liu, Q<sup>*</sup> (2023). **Research trends in transient receptor potential vanilloid in cardiovascular disease: Bibliometric analysis and visualization.** *Frontiers in Cardiovascular Medicine*, Volume 10 - 2023. [DOI](https://doi.org/10.3389/fcvm.2023.1071198) [PMID](https://pubmed.ncbi.nlm.nih.gov/36910533/)
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu**~**<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), [Undergraduate Consortium](https://kdd2024.kdd.org/undergraduate-consortium/).<br>Barcelona, Spain. August, 2024.<br>
+- Ma, S.<sup>#</sup>, Zhou, Z., Nie, Z., **<u>Zhang, L.</u>**, Gong, Q., Lv, H., Wang, C., Xiang, D., Kang, L., Wang, G., Wang, H., Yang, J. & Liu, Z<sup>*</sup>. (2025) **Towards precision psychiatry: identifying biological subtypes of depression through proteomics**. *Communications Medicine* (Under Review)
 
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu**~**<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster.<br>Tokyo, Japan. June, 2024.
+- Yuan, R.<sup>#</sup>, Yang, Y., Wang, Z., Song, Z., **<u>Zhang, L.</u>**, Guo, Z., Yu, H., Ju, Y., Feng, Z<sup>*</sup>. (2024) **Adolescent Psychological Resilience and Non-Suicidal Self-Injury: A Moderated Mediation Model.** *Chinese Journal of Clinical Psychology* [DOI](https://doi.org/10.16128/j.cnki.1005-3611.2024.04.022)
 
-  <br>
-
-- Applying LLM-Powered Virtual Humans to Child Interviews in Child-Centered Design<br>Linshi Li, **Hanlin Cai~**<br>The 24th Annual ACM Interaction Design and Children Conference (IDC 25)<br>Reykjavik, Iceland. June, 2025.
-
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and **Hanlin Cai~**<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
-
-
-<br>
-
-
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://ojs.aaai.org/index.php/AAAI/article/view/30544)<br>*Final year project ([thesis](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>The 38th Annual AAAI Conference on Artificial Intelligence (AAAI 2024), [Undergraduate Consortium](https://aaai.org/aaai-24-conference/undergraduate-consortium-program/).<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior-year course design.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics.<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*First-year course design.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022 (EI Compendex).<br>
 
   <br>
 
 ---
 
-## Degree Thesis
-
-- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://caihanlin.com/mypaper/thesis/UG-thesis.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu). **Best Bachelor Thesis Award** (Top 1/300).<br>Proposal paper has been accepted by AAAI 2024<br>Expect to submit a long paper to KDD 2024.
-
-- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
-
-  <br>
-
-<br>
