@@ -31,7 +31,7 @@ My current research focuses on single-cell transcriptomics and multi-omics integ
 
 ## Academic Background
 
-- **Sep 2023 – Present**: *M.S., Psychiatry and Mental Health*, Psychiatry and Mental Health*, Wuhan University
+- **Sep 2023 – Present**: *M.S., Psychiatry and Mental Health*, Psychiatry and Mental Health, Wuhan University
 - **Sep 2018 – Jun 2023**: *M.B., Clinical Medicine*, Central South University
 <br>
 
