@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://lancelotzhang0124.github.io/caihanlin.jpg" class="floatpic">
+<img src="https://lancelotzhang0124.github.io/Lingfeng.jpg" class="floatpic">
 
 Here is **Lingfeng Zhang (张凌风)**.<br>
 
