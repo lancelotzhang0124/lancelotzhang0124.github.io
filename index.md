@@ -28,7 +28,7 @@ If you’re interested in collaborating or learning more about my work, feel fre
 
 - scRNA-seq & scATAC-seq
 - Spatial Transcriptomics
-- proteomics
+- Proteomics
 - post-GWAS
 
 > *&ensp;Psychiatric disorders impose a substantial and growing burden on global health, accounting for significant disability, socioeconomic impact, and healthcare costs. Despite their prevalence and severity, current diagnostic frameworks rely heavily on subjective symptom reports, and objective biomarkers remain elusive.
