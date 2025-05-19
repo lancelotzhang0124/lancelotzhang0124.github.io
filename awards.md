@@ -14,7 +14,7 @@ title: Awards
 ## Professional Qualifications
 
 - **Psychiatrist (2023 - 2026)**: Residency Training Program
-- **Doctor’ License of China (2024)**: Qualified as a medical doctor in China.
+- **Certified Medical Doctor**: Qualified as a medical doctor in China.
 
 <br>
 
