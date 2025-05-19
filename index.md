@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://lancelotzhang0124.github.io/Lingfeng.jpg" class="floatpic" width="360">
 
-Here is **Lingfeng Zhang (Lingfeng, 张凌风)**.<br>
+Here is **Lingfeng Zhang (张凌风)**.<br>
 
 I am a graduate student majoring in **Psychiatry and Mental Health** at Renmin Hospital, Wuhan University, supervised by **[Prof. Zhongchun Liu](https://scholar.google.com/citations?user=W1uFFUAAAAAJ&hl=en)**. I received my Bachelor’s degree in Clinical Medicine from the Xiangya School of Medicine, Central South University. My research focuses on identifying potential biomarkers in psychiatric disorders through scRNA-seq and multi-omics integration.
 
